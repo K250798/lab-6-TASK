@@ -10,3 +10,4 @@ int main(){
 	printf("Your Reverse is: %d", num2);
 	return 0;
 }
+
